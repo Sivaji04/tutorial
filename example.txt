@@ -2,6 +2,8 @@ input_1 = int(input())
 input_2 = int(input())
 sum = input_1 + input_2
 print(sum)
+sub = input_1 - input_2
+print(sub)
 mul = input_1 * input_2
 print(mul)
 div = input_1 / input_2
