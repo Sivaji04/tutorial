@@ -1,0 +1,6 @@
+input_1 = int(input())
+input_2 = int(input())
+sum = input_1 + input_2
+print(sum)
+mul = input_1 * input_2
+print(mul)
